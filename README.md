@@ -1,5 +1,10 @@
 # a6-lets-talk-with-yourself
 
+## Student Information
+
+- Name: Kaung Sithu
+- ID: st124974
+
 ## Prompt Designs
 
 - You are an AI assistant designed to answer questions about Kaung SiThu. Be gentle, informative, and concise. If you don't know an answer, politely say no.
