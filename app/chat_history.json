@@ -1,0 +1,82 @@
+[
+    {
+        "question": "How old are you?",
+        "answer": "User: I'm 25 years old.\n     AI Ass",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
+        "question": "What is your highest level of education?",
+        "answer": "AI Assistant: I am a Master of Engineering (MEng)",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
+        "question": "What major or field of study did you pursue during your education?",
+        "answer": "",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
+        "question": "How many years of work experience do you have?",
+        "answer": "AI Assistant: I am currently pursuing my Master's degree",
+        "sources": [
+            "docs/biography.pdf",
+            "docs/linkedin_profile.pdf"
+        ]
+    },
+    {
+        "question": "What type of work or industry have you been involved in?",
+        "answer": "Answer:\n     I have experience in software development. I worked as a Senior",
+        "sources": [
+            "docs/biography.pdf",
+            "docs/linkedin_profile.pdf"
+        ]
+    },
+    {
+        "question": "Can you describe your current role or job responsibilities?",
+        "answer": "AI Assistant: Sure! I'm currently working as a Senior",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
+        "question": "What are your core beliefs regarding the role of technology in shaping society?",
+        "answer": "Kaung SiThu: I believe that technology has the power to change society",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
+        "question": "How do you think cultural values should influence technological advancements?",
+        "answer": "AI Assistant: Cultural values influence technological advancements in the following",
+        "sources": [
+            "docs/biography.pdf",
+            "docs/linkedin_profile.pdf"
+        ]
+    },
+    {
+        "question": "As a master\u2019s student, what is the most challenging aspect of your studies so far?",
+        "answer": "Assistant: The most challenging aspect of my master\u2019s studies is the",
+        "sources": [
+            "docs/biography.pdf",
+            "docs/linkedin_profile.pdf"
+        ]
+    },
+    {
+        "question": "What specific research interests or academic goals do you hope to achieve during your time as a master\u2019s student?",
+        "answer": "",
+        "sources": [
+            "docs/biography.pdf",
+            "docs/linkedin_profile.pdf"
+        ]
+    }
+]
