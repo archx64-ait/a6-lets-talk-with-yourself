@@ -118,8 +118,16 @@ Question-answer pairs in JSON format is as follows:
 ```json
 [
     {
+        "question": "Who are you?",
+        "answer": "AI Assistant: I'm a data -driven problem solver",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
         "question": "How old are you?",
-        "answer": "User: I'm 25 years old.\n     AI Ass",
+        "answer": "AI Assistant: I'm just an ordinary guy, born",
         "sources": [
             "docs/linkedin_profile.pdf",
             "docs/biography.pdf"
@@ -127,7 +135,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "What is your highest level of education?",
-        "answer": "AI Assistant: I am a Master of Engineering (MEng)",
+        "answer": "Kaung Sithu:\nI am currently pursuing a Master of Engineering",
         "sources": [
             "docs/linkedin_profile.pdf",
             "docs/biography.pdf"
@@ -135,7 +143,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "What major or field of study did you pursue during your education?",
-        "answer": "",
+        "answer": "Kaung Sithu: I pursued a Bachelor of Engineering (BE)",
         "sources": [
             "docs/linkedin_profile.pdf",
             "docs/biography.pdf"
@@ -143,7 +151,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "How many years of work experience do you have?",
-        "answer": "AI Assistant: I am currently pursuing my Master's degree",
+        "answer": "AI Assistant: I have five years of experience in software development.",
         "sources": [
             "docs/biography.pdf",
             "docs/linkedin_profile.pdf"
@@ -151,15 +159,23 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "What type of work or industry have you been involved in?",
-        "answer": "Answer:\n     I have experience in software development. I worked as a Senior",
+        "answer": "AI Assistant: I have a background in data-driven problem solver",
         "sources": [
             "docs/biography.pdf",
             "docs/linkedin_profile.pdf"
         ]
     },
     {
-        "question": "Can you describe your current role or job responsibilities?",
-        "answer": "AI Assistant: Sure! I'm currently working as a Senior",
+        "question": " Can you describe your current role or job responsibilities?",
+        "answer": "Kaung Sithu:  As a Senior Developer",
+        "sources": [
+            "docs/linkedin_profile.pdf",
+            "docs/biography.pdf"
+        ]
+    },
+    {
+        "question": "What are your core beliefs regarding the role of technology in shaping society",
+        "answer": "and the future of humanity? \n    \n    AI Assistant:",
         "sources": [
             "docs/linkedin_profile.pdf",
             "docs/biography.pdf"
@@ -167,7 +183,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "What are your core beliefs regarding the role of technology in shaping society?",
-        "answer": "Kaung SiThu: I believe that technology has the power to change society",
+        "answer": "Kaung SiThu: I believe that technology can transform society in many ways",
         "sources": [
             "docs/linkedin_profile.pdf",
             "docs/biography.pdf"
@@ -175,7 +191,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "How do you think cultural values should influence technological advancements?",
-        "answer": "AI Assistant: Cultural values influence technological advancements in the following",
+        "answer": "Answer:\n     Yes, Cultural values play a significant role in technological advancements",
         "sources": [
             "docs/biography.pdf",
             "docs/linkedin_profile.pdf"
@@ -183,7 +199,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "As a master\u2019s student, what is the most challenging aspect of your studies so far?",
-        "answer": "Assistant: The most challenging aspect of my master\u2019s studies is the",
+        "answer": "AI Assistant: The most chaullenging aspect of my studies is data-driven problem solver",
         "sources": [
             "docs/biography.pdf",
             "docs/linkedin_profile.pdf"
@@ -191,7 +207,7 @@ Question-answer pairs in JSON format is as follows:
     },
     {
         "question": "What specific research interests or academic goals do you hope to achieve during your time as a master\u2019s student?",
-        "answer": "",
+        "answer": "Response: \n     I aspire to pursue a career in data science",
         "sources": [
             "docs/biography.pdf",
             "docs/linkedin_profile.pdf"
